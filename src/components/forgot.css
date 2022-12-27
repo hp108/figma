@@ -1,0 +1,28 @@
+.row{
+    justify-content: space-evenly;
+}
+
+.frm{
+    width: 50% ;
+    margin: auto;
+    box-shadow: 0px 0px 4px 5px rgba(1, 1, 19, 0.07);
+}
+
+.divv{
+    text-align: start;
+}
+.ipclass{
+    box-shadow: 0px 0px 1px 0.2px black;
+}
+.fp{
+
+    font-size: 10px;
+}
+.fpp{
+    font-size: 15px;
+}
+.df{
+    display: flex;
+    align-self: flex-end;
+}
+
